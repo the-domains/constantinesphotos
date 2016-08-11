@@ -1,0 +1,28 @@
+name: constantinesphotos
+favicon: null
+layout_spectrum: 0.24377651349641383
+typography_spectrum: 0.2987157788593322
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7372406746726483
+  lightness: 0.3101052367128432
+  saturation: 0.38461368274874985
+  rhythmicContrast: 0.6583753565791994
+purpose: []
