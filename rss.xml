@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[constantinesphotos]]></title>
         <description><![CDATA[constantinesphotos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/constantinesphotos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 20:19:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Aug 2016 00:54:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/constantinesphotos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/384f4e56-5f03-4f5f-aa40-0e00ec9c39db.jpg">]]></description>
+            <link>https://thegrid.ai/constantinesphotos/sarah-bliss-reflections-on-a-calendar-shoot-miss-novembe/index.html</link>
+            <guid isPermaLink="false">20d24c24-5967-403d-9837-9105c5db333f</guid>
+            <pubDate>Fri, 12 Aug 2016 00:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c8831de-748b-4da7-815f-41186c91a753.jpg">]]></description>
-            <link>undefineda-beautiful-image-of-ashley-mae-at-atomic-canary-new-england/index.html</link>
+            <link>https://thegrid.ai/constantinesphotos/a-beautiful-image-of-ashley-mae-at-atomic-canary-new-england/index.html</link>
             <guid isPermaLink="false">e0951734-3c13-42ea-928e-959e263d6d9b</guid>
             <pubDate>Thu, 11 Aug 2016 20:19:33 GMT</pubDate>
         </item>
