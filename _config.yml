@@ -2,6 +2,7 @@ name: constantinesphotos
 favicon: null
 layout_spectrum: 0.24377651349641383
 typography_spectrum: 0.2987157788593322
+title: Constantine's Photos
 cta:
   domain: null
   bucket: null
