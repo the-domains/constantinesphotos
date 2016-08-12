@@ -4,8 +4,15 @@
         <description><![CDATA[Constantine's Photos]]></description>
         <link>https://thegrid.ai/constantinesphotos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 17:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 18:33:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/constantinesphotos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee5a82b7-6ee1-41e4-bdd0-9186ad47f74b.jpg">]]></description>
+            <link>https://thegrid.ai/constantinesphotos/collibrina-in-the-late-afternoon-shadows-at-atomic-canary-ne/index.html</link>
+            <guid isPermaLink="false">fc431acf-3f7e-42af-9735-51c0764bf53a</guid>
+            <pubDate>Fri, 12 Aug 2016 18:33:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/519da278-e31b-4f7c-a156-6d0d433279c1.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/constantinesphotos/sarah-bliss-reflections-on-a-calendar-shoot-miss-novembe/index.html</link>
             <guid isPermaLink="false">20d24c24-5967-403d-9837-9105c5db333f</guid>
             <pubDate>Fri, 12 Aug 2016 00:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c8831de-748b-4da7-815f-41186c91a753.jpg">]]></description>
-            <link>https://thegrid.ai/constantinesphotos/a-beautiful-image-of-ashley-mae-at-atomic-canary-new-england/index.html</link>
-            <guid isPermaLink="false">e0951734-3c13-42ea-928e-959e263d6d9b</guid>
-            <pubDate>Thu, 11 Aug 2016 20:19:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
