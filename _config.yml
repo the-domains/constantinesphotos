@@ -1,20 +1,4 @@
-name: constantinesphotos
-favicon: null
-layout_spectrum: 0.14625
 typography_spectrum: 0.39505
-title: Constantine's Photos
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-82908034-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#cfcfcf'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5625
   saturation: 0.6875
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.14625
+analytics:
+  google: UA-82908034-1
+  facebook: null
+  twitter: null
+name: constantinesphotos
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Constantine's Photos
+description: Freelance Professional Creating Photographic Masterpieces Daily
 purpose: []
